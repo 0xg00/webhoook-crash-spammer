@@ -22,7 +22,7 @@ This script repeatedly sends a set of predefined spam messages to a Discord webh
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/discord-webhook-spammer.git
+    git clone https://github.com/0xg00/webhoook-crash-spammer.git
     ```
 
 2. Navigate to the project directory:
