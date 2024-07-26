@@ -28,7 +28,7 @@ This script repeatedly sends a set of predefined spam messages to a Discord webh
 2. Navigate to the project directory:
 
     ```sh
-    cd discord-webhook-spammer
+    cd webhoook-crash-spammer
     ```
 
 3. Install the required packages:
@@ -48,5 +48,5 @@ This script repeatedly sends a set of predefined spam messages to a Discord webh
 2. Run the script:
 
     ```sh
-    node spammer.js
+    node index.js
     ```
